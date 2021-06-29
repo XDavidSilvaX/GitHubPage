@@ -54,7 +54,8 @@ Somit musste man in Eigenleistung beweisen, den Vorlesungsstoff außerhalb des S
 
 1. Video Schleifen-for-each-do-while-Arrays sowie Funktion-Methode-Rekursion-fehlerhafte-Daten
 
-   <img width="541" alt="Video_1" src="https://user-images.githubusercontent.com/72854140/123825230-08c01c00-d8ff-11eb-83ed-da910addd664.PNG">
+   <img width="541" alt="Video_1" src="https://user-images.githubusercontent.com/72854140/123825230-08c01c00-d8ff-11eb-83ed-da910addd664.jpg">
+   
    
    
 
