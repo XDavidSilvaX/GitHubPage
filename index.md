@@ -23,11 +23,13 @@ Im Laufe der Zeit hatten wir nicht nur ein grobes Konzept des Regeln, sondern es
 
 Hier ist ein Beispiel unseres aktuellen Package-Explores, welcher seit Beginn die gleiche Struktur aufweist, bis auf die Ki- und Gui-Komponenten, die erst im weiteren Verlauf des Semesters dazu kamen.
 
-![Package Explorer](https://user-images.githubusercontent.com/72968168/123869580-771dd200-d931-11eb-8ce0-1b1fcff339b1.jpg)
+![Package Explorer](https://user-images.githubusercontent.com/72968168/123871821-7e92aa80-d934-11eb-8ca2-76fca07132ad.jpg)
+
 
 Hier ein Beispiel unserer Spiel-CLI:
 
-![Spiel-CLI](https://user-images.githubusercontent.com/72968168/123869873-dc71c300-d931-11eb-8196-713fcb7bf936.jpg)
+![Spiel-CLI](https://user-images.githubusercontent.com/72968168/123871826-82263180-d934-11eb-8da4-07d0edab8933.jpg)
+
 
 
 **Teil 2:**
@@ -36,13 +38,15 @@ In diesem Abschnitt wurde ein großer Fokus auf das Implementieren von KI´s, de
 Deshalb setzte sich ein Teil unseres Teams daran die Spiellogik nun auch für zwei verschiedene KI´s umzusetzen. 
 Einmal eine offensive KI und eine defensive KI.
 
-![KI](https://user-images.githubusercontent.com/72968168/123871094-8a31a180-d933-11eb-9387-d212c1da8eca.jpg)
+![KI](https://user-images.githubusercontent.com/72968168/123871832-85212200-d934-11eb-9883-0343ff721000.jpg)
+
 
 Der andere Teil des Teams beschäftigte sich während dessen mit dem Laden und Speichern
 im CSV und Serialisierten Format beschäftigte.
 Somit nahm das ganzes schon sehr stark Gestalt an und konnte nun sogar gespeichert werden.
 
-![speichern](https://user-images.githubusercontent.com/72968168/123871577-1643c900-d934-11eb-8310-6ee6b420d8a1.jpg)
+![speichern](https://user-images.githubusercontent.com/72968168/123871842-86eae580-d934-11eb-932c-9300d32a64b4.jpg)
+
 
 
 **Teil 3:**
