@@ -34,7 +34,11 @@ Hier ein Beispiel unserer Spiel-CLI:
 
 In diesem Abschnitt wurde ein großer Fokus auf das Implementieren von KI´s, dem Speichern und der Verwendung von Interfaces gesetzt.
 Deshalb setzte sich ein Teil unseres Teams daran die Spiellogik nun auch für zwei verschiedene KI´s umzusetzen. 
-Einmal eine offensive KI und eine defensive KI. Der andere Teil des Teams beschäftigte sich  während dessen mit dem Laden und Speichern
+Einmal eine offensive KI und eine defensive KI.
+
+![KI](https://user-images.githubusercontent.com/72968168/123871094-8a31a180-d933-11eb-9387-d212c1da8eca.jpg)
+
+Der andere Teil des Teams beschäftigte sich während dessen mit dem Laden und Speichern
 im CSV und Serialisierten Format beschäftigte.
 Somit nahm das ganzes schon sehr stark Gestalt an und konnte nun sogar gespeichert werden.
 
