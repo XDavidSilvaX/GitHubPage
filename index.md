@@ -68,7 +68,7 @@ In diesem Video wurde auch ein Merg Konflikt gelöst. Diese Video finden sie auc
 
 ![Screenshot Video 3](https://user-images.githubusercontent.com/74213338/123827673-1d9daf00-d901-11eb-8abc-acc3b0598d82.JPG)
 
-Im 3 Video habe ich die wichtigsten Steuerelemente der Swing-Gui vorgestellt und der Behandlung von Ereignissen bezogen auf das klick Event. 
+Im dritten Video habe ich die wichtigsten Steuerelemente der Swing-Gui vorgestellt und der Behandlung von Ereignissen bezogen auf das klick Event. 
 Mein Beispiel in diesem Video war eine abstrakte dargestellte einer Pizza Bestellung. 
 
 
@@ -76,12 +76,41 @@ Mein Beispiel in diesem Video war eine abstrakte dargestellte einer Pizza Bestel
 
 [Screen]
 
-In dem 4 habe ich anhand einer TreeMap die Funktionen des Compareable interface gezeigt sowie die Funktionen eines Iterators.
+In Video 4 habe ich anhand einer TreeMap die Funktionen des Compareable interface gezeigt sowie die Funktionen eines Iterators.
 Dies habe ich anhand eines Beispiels der EuropaMeisterschaft realsiert. Abgesondert davon bin ich nach auf die Wildcars und Properties
 eingegangen und welche Funktion diese 2 Konzepte bieten. 
 
 
 **Tristan Gräble**
+
+
+**1.Video Anweisungen-Datentypen-Operatoren-Konstanten sowie UML-Aktivitätsdiagramm-Verzweigungen-if-else-switch**
+
+![Screenshot-Video-1a](https://user-images.githubusercontent.com/72968168/123862822-1db1a500-d929-11eb-8235-0f948134b3f4.jpg)
+
+In Video 1 habe ich Primitive Datentypen und Referenztypen vorgestellt und verglichen. Zusätzlich habe ich arithmetische-, Bit- und Vergleichs Operatoren anhand Beispielen gezeigt. Desweiteren bin ich auf das Konvertieren von Datentypen im automatischen, sowie im manuellen Type-Cast eingegangen. Der zweite Teil des Videos handelte von den Grundlagen der UML mit Beispiel eines Aktivitätsdiagramm mit Verzweigungen. Auf diese Verzweigungen bin ich daraufhin gesondert in Java eingegangen, sodass ich anhand Beispielen if, else und switch zeigen konnte.
+
+
+**2.Video Exception-Handling-Strukturierung
+
+![Screenshot-Video-1b](https://user-images.githubusercontent.com/72968168/123865505-45eed300-d92c-11eb-8119-ebc735cf2588.jpg)
+
+Im zweiten Video habe ich mich mit Exception-Handling und der Strukturierung größere Software Projekte befasst. Hierzu habe ich zunächst Exception selbst erklärt und dessen Vererbungshierarchie gezeigt. Im weiteren Verlauf des Videos habe ich anhand eines des Altersnachweises Try und Catch von Exceptions gezeigt. Daraufhin habe ich Java-Konstrukte zur Strukturierung von Objekten erläutert.
+
+
+**3.Video Definition von Interfaces, deren Implementierung und Verwendung
+
+![Screenshot-Video-AB2](https://user-images.githubusercontent.com/72968168/123866353-3e7bf980-d92d-11eb-82b7-5b1b4ae938bc.jpg)
+
+In Video drei bin ich auf Interfaces in Java eingegangen. Dazu habe ich anhand eines Modells erst das Prinzip eines Interfaces erklärt. Anschließend mit einem Beispiel einer DrachenKlasse und eines DrachenInterfaces dies in Eclipse gezeigt.
+
+
+**4.Video funktionale Programmierung: Paradigmen, Funktional, Lambda, Closure
+
+![Screenshot-Video-AB3](https://user-images.githubusercontent.com/72968168/123867003-12ad4380-d92e-11eb-9db9-203b15004d07.jpg)
+
+In meinem letzten Video habe ich Programmier Paradigmen erklärt und bin vor allem auf die Funktionale Programmierung eingegangen. Im zweiten Teil des Videos zeige ich Schlüsselwörter der Funktionalen Programmierung, wie Function, UnaryOperator, Consumer und Supplier. Daraufhin stellte ich ein Beispiel von Lambda vor und dessen Code-Reduzierung, sowie ein Beispiel zu Closure.
+
 
 **Johannes Kramberg**
 
