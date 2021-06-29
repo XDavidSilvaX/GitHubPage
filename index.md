@@ -45,26 +45,40 @@ zusätzlich noch mit eigenen Beispielen untermalten. Dabei war es sehr wichtig "
 Somit musste man in Eigenleistung beweisen, den Vorlesungsstoff außerhalb des Semesterspiels zu beherrschen.
 
 **David Silva Goncales**
-1.Video
+
+**1.Video Objekt-Eigenschaften-Getter-Setter-Konstruktoren**
 
 ![Screenshot Video 1](https://user-images.githubusercontent.com/74213338/123827645-170f3780-d901-11eb-9c52-e472ee2a8ab7.JPG)
 
 
+Diese Video hat sich stark um die Grundlagen der Objektorientierte Programmierung gedreht. Zuerst wird generell gezeigt wie Objekte angelegt werden und deren Eigenschaften/Attribute, sowie welche Rolle die Konstruktor dabei spielen. 
+Des Weitern werden die Getter und Setter Hilfsmethoden anhand des codes erklärt.
+Mein Videobeispiel handeltet sich um Hunde und somit konnte ich die Theorie der Vorlesung am Quellcode erklären. 
 
 
-
-2.Video
+**2.Video Versionsverwaltung-zentral-verteilt-GIT. Die typischen GIT-Funktionen sind dabei ausgehend von einem leeren Eclipse-Projekt live im Video zu zeigen.**
 
 ![Screenshot Video 2](https://user-images.githubusercontent.com/74213338/123827658-1a0a2800-d901-11eb-8555-48ab11ef85da.JPG)
 
+Im zweiten Video dreht sich alles um die Versionsverwaltungssysteme und im besonderen hat es sich um Git gehandelt, welche Funktion es bietet und wie wir es perfekt nutzten können, um als Team am Quellcode zu arbeiten.
+In diesem Video wurde auch ein Merg Konflikt gelöst. Diese Video finden sie auch auf dem Youtube Kanal von Herrn Prof. Frank Dopatka  [Versionsverwaltungssysteme und GIT mit Java in Eclipse](https://www.youtube.com/watch?v=DZAdtgJMw6g&ab_channel=FrankDopatka).
 
-3.Video
+
+**3.Video Steuerelemente und Ereignisse in Swing**
 
 ![Screenshot Video 3](https://user-images.githubusercontent.com/74213338/123827673-1d9daf00-d901-11eb-8abc-acc3b0598d82.JPG)
 
+Im 3 Video habe ich die wichtigsten Steuerelemente der Swing-Gui vorgestellt und der Behandlung von Ereignissen bezogen auf das klick Event. 
+Mein Beispiel in diesem Video war eine abstrakte dargestellte einer Pizza Bestellung. 
 
-4.Video
 
+**4.Video Collections: Comparator, Iterator, Map, Properties, Wildcards**
+
+[Screen]
+
+In dem 4 habe ich anhand einer TreeMap die Funktionen des Compareable interface gezeigt sowie die Funktionen eines Iterators.
+Dies habe ich anhand eines Beispiels der EuropaMeisterschaft realsiert. Abgesondert davon bin ich nach auf die Wildcars und Properties
+eingegangen und welche Funktion diese 2 Konzepte bieten. 
 
 
 **Tristan Gräble**
