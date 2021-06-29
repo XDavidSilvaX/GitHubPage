@@ -16,11 +16,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Die Programmierung des Uno Spiels wurden in drei Teile aufgeteilt.
 
 
-Teil 1:
-
+**Teil 1:**
 Der erste Teil bestand aus dem groben Konzept der verschiedenen Klassen, in die wir nach und nach die Spiellogik implementierten. 
 Dieses beinhaltete das Testgetriebene entwickeln unter der Benutzung von JUnits und die Verwendung des eigenen Exception Handlings. 
-die dauerhaft Dokumentierierung unter der Verwendung von Java Docs.
+Auch war es sehr wichtig alles detailliert mit Java Docs zu dokumentieren.
+Im Laufe der Zeit hatten wir nicht nur ein grobes Konzept des Regeln, sondern es kamen Spieler hinzu durch die unser Projekt langsam spielbar wurde.
+
+**Teil 2:**
+In diesem Abschnitt wurde ein großer Fokus auf das Implementieren von KI´s, dem Speichern und der Verwendung von Interfaces gesetzt.
+Deshalb setzte sich ein Teil unseres Teams daran die Spiellogik nun auch für zwei verschiedene KI´s umzusetzen. 
+Einmal eine offensive KI und eine defensive KI. Der andere Teil des Teams beschäftigte sich  während dessen mit dem Laden und Speichern
+im CSV und Serialisierten Format beschäftigte.
+Somit nahm das ganzes schon sehr stark Gestalt an und konnte nun sogar gespeichert werden.
+
+**Teil 3:**
+Im letzten Abschnitt durften wir nun das ganze in ein Graphical User Interface einbetten. Zudem kamen auch Themen des Multi Threading der KI hinzu. 
+Also bekamen unsere KI´s beim Instanziiren noch jeweils einen eigenen Thread und konnten nun unabhängig vom Main Thread existieren.
+Des weiteren brauchten wir noch die Möglichkeit jeden Spielzug nachzuvollziehen. Deshalb bekam unser Programm noch einen selbst erstellten Logger hinzu.
+
+
 
 
 
