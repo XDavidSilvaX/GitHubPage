@@ -45,6 +45,27 @@ zusätzlich noch mit eigenen Beispielen untermalten. Dabei war es sehr wichtig "
 Somit musste man in Eigenleistung beweisen, den Vorlesungsstoff außerhalb des Semesterspiels zu beherrschen.
 
 **David Silva Goncales**
+1.Video
+
+![Screenshot Video 1](https://user-images.githubusercontent.com/74213338/123827645-170f3780-d901-11eb-9c52-e472ee2a8ab7.JPG)
+
+
+
+
+
+2.Video
+
+![Screenshot Video 2](https://user-images.githubusercontent.com/74213338/123827658-1a0a2800-d901-11eb-8555-48ab11ef85da.JPG)
+
+
+3.Video
+
+![Screenshot Video 3](https://user-images.githubusercontent.com/74213338/123827673-1d9daf00-d901-11eb-8abc-acc3b0598d82.JPG)
+
+
+4.Video
+
+
 
 **Tristan Gräble**
 
