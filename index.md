@@ -42,6 +42,9 @@ Der andere Teil des Teams beschäftigte sich während dessen mit dem Laden und S
 im CSV und Serialisierten Format beschäftigte.
 Somit nahm das ganzes schon sehr stark Gestalt an und konnte nun sogar gespeichert werden.
 
+![speichern](https://user-images.githubusercontent.com/72968168/123871577-1643c900-d934-11eb-8310-6ee6b420d8a1.jpg)
+
+
 **Teil 3:**
 
 Im letzten Abschnitt durften wir nun das ganze in ein Graphical User Interface einbetten. Zudem kamen auch Themen des Multi Threading der KI hinzu. 
