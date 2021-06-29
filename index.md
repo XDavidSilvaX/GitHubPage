@@ -1,13 +1,17 @@
-## Pr2 B2 Semesterspiel Uno
+# Pr2 B2 Semesterspiel Uno
 
-Was hat unser Team in Pr 2 bei DOP dieses Semester gemacht?
+**Was hat unser Team in Pr 2 bei DOP dieses Semester gemacht?**
 
 Wir haben uns im Sinne unserer Studienleistung mit der Programmierung eines Uno Spiels als Team beschäftigt.
 Zusätzlich mussten wir in Eigenleistung Lehrvideos zum gegebenen Vorlesungsthemen selbst drehen.
 
+**Wer gehörte zu unserem Team?**
 
-### Semesterspiel UNO
-Die Programmierung des Uno Spiels wurden in drei Teile aufgeteilt.
+Wir waren David Silva Goncalves, Tristan Gräble, Johannes Kramberg und Katharina Korst
+
+
+## Semesterspiel UNO
+Die Programmierung des Uno Spiels wurden in folgende drei Teile aufgeteilt:
 
 
 **Teil 1:**
@@ -32,6 +36,21 @@ Also bekamen unsere KI´s beim Instanziiren noch jeweils einen eigenen Thread un
 Des weiteren brauchten wir noch die Möglichkeit jeden Spielzug nachzuvollziehen. Deshalb bekam unser Programm noch einen selbst erstellten Logger hinzu.
 
 
+
+
+## Individuelle Leistung - Lehrvideos
+
+Jeder von uns musste ein Video zu einem zugeteilten Inhalt drehen. Der Inhalt war immer Teil des Vorlesungsstoffs, den wir aufgriefen und diesen 
+zusätzlich noch mit eigenen Beispielen untermalten. Dabei war es sehr wichtig "nichts nachzuplappern".
+Somit musste man in Eigenleistung beweisen, den Vorlesungsstoff außerhalb des Semesterspiels zu beherrschen.
+
+**David Silva Goncales**
+
+**Tristan Gräble**
+
+**Johannes Kramberg**
+
+**Katharina Korst**
 
 
 
