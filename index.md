@@ -21,6 +21,15 @@ Dieses beinhaltete das Testgetriebene entwickeln unter der Benutzung von JUnits 
 Auch war es sehr wichtig alles detailliert mit Java Docs zu dokumentieren.
 Im Laufe der Zeit hatten wir nicht nur ein grobes Konzept des Regeln, sondern es kamen Spieler hinzu durch die unser Projekt langsam spielbar wurde.
 
+Hier ist ein Beispiel unseres aktuellen Package-Explores, welcher seit Beginn die gleiche Struktur aufweist, bis auf die Ki- und Gui-Komponenten, die erst im weiteren Verlauf des Semesters dazu kamen.
+
+![Package Explorer](https://user-images.githubusercontent.com/72968168/123869580-771dd200-d931-11eb-8ce0-1b1fcff339b1.jpg)
+
+Hier ein Beispiel unserer Spiel-CLI:
+
+![Spiel-CLI](https://user-images.githubusercontent.com/72968168/123869873-dc71c300-d931-11eb-8196-713fcb7bf936.jpg)
+
+
 **Teil 2:**
 
 In diesem Abschnitt wurde ein großer Fokus auf das Implementieren von KI´s, dem Speichern und der Verwendung von Interfaces gesetzt.
@@ -35,6 +44,8 @@ Im letzten Abschnitt durften wir nun das ganze in ein Graphical User Interface e
 Also bekamen unsere KI´s beim Instanziiren noch jeweils einen eigenen Thread und konnten nun unabhängig vom Main Thread existieren.
 Des weiteren brauchten wir noch die Möglichkeit jeden Spielzug nachzuvollziehen. Deshalb bekam unser Programm noch einen selbst erstellten Logger hinzu.
 
+Hier ein Beispiel unseres Hauptmenüs:
+![Uno-Hauptmenue GUI](https://user-images.githubusercontent.com/72968168/123870003-04f9bd00-d932-11eb-97c9-b0a6f705d1d6.jpg)
 
 
 
