@@ -1,14 +1,33 @@
 ## Pr2 B2 Semesterspiel Uno
 
-Was hat unser Team in Pr 2 bei DOP diese Semester gemacht?
-Wir haben uns im Sinne unserer Studienleistung an ei
+Was hat unser Team in Pr 2 bei DOP dieses Semester gemacht?
+
+Wir haben uns im Sinne unserer Studienleistung mit der Programmierung eines Uno Spiels als Team beschäftigt.
+Zusätzlich mussten wir in Eigenleistung Lehrvideos zum gegebenen Vorlesungsthemen selbst drehen.
+
+
+
+
 You can use the [editor on GitHub](https://github.com/XDavidSilvaX/GitHubPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Semesterspiel UNO
+Die Programmierung des Uno Spiels wurden in drei Teile aufgeteilt.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Teil 1:
+
+Der erste Teil bestand aus dem groben Konzept der verschiedenen Klassen, in die wir nach und nach die Spiellogik implementierten. 
+Dieses beinhaltete das Testgetriebene entwickeln unter der Benutzung von JUnits und die Verwendung des eigenen Exception Handlings. 
+die dauerhaft Dokumentierierung unter der Verwendung von Java Docs.
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
