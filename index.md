@@ -54,25 +54,29 @@ Somit musste man in Eigenleistung beweisen, den Vorlesungsstoff außerhalb des S
 
 1. Video Schleifen-for-each-do-while-Arrays sowie Funktion-Methode-Rekursion-fehlerhafte-Daten
 
-   <img width="541" alt="Video_1" src="https://user-images.githubusercontent.com/72854140/123825230-08c01c00-d8ff-11eb-83ed-da910addd664.jpg">
+   ![Video_1](https://user-images.githubusercontent.com/72854140/123826884-7587e600-d900-11eb-857b-9d767160caf8.jpg)
+
    
    
    
 
 3. Video Bubblesort und Quicksort sind dabei jeweils ausgehend von einem leeren Eclipse-Projekt live im Video zu entwickeln
 
-   <img width="541" alt="Video_1b" src="https://user-images.githubusercontent.com/72854140/123825257-0eb5fd00-d8ff-11eb-8227-cffb1dfc56e3.jpg">
+   ![Video_1b](https://user-images.githubusercontent.com/72854140/123826921-7caef400-d900-11eb-8d44-f2b8069afef8.jpg)
+
 
 
 5. Eingabe, Ausgabe, Ströme und Dateien
 
 
-   <img width="540" alt="Video_2" src="https://user-images.githubusercontent.com/72854140/123825293-15dd0b00-d8ff-11eb-90e2-26b755284e59.jpg">
+   ![Video_2](https://user-images.githubusercontent.com/72854140/123826947-820c3e80-d900-11eb-980c-039b292cbc04.jpg)
+
 
 7. Datenstrukturen: Binärbaum, Tree, Trie
 
 
-   <img width="539" alt="Video_3" src="https://user-images.githubusercontent.com/72854140/123825327-1b3a5580-d8ff-11eb-933b-c6130afb9a6e.jpg">
+   ![Video_3](https://user-images.githubusercontent.com/72854140/123826976-88021f80-d900-11eb-8da6-5ca5b25bf6c5.jpg)
+
 
 
 
