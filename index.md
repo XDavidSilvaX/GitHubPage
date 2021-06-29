@@ -61,18 +61,18 @@ Somit musste man in Eigenleistung beweisen, den Vorlesungsstoff außerhalb des S
 
 3. Video Bubblesort und Quicksort sind dabei jeweils ausgehend von einem leeren Eclipse-Projekt live im Video zu entwickeln
 
-   <img width="541" alt="Video_1b" src="https://user-images.githubusercontent.com/72854140/123825257-0eb5fd00-d8ff-11eb-8227-cffb1dfc56e3.PNG">
+   <img width="541" alt="Video_1b" src="https://user-images.githubusercontent.com/72854140/123825257-0eb5fd00-d8ff-11eb-8227-cffb1dfc56e3.jpg">
 
 
 5. Eingabe, Ausgabe, Ströme und Dateien
 
 
-   <img width="540" alt="Video_2" src="https://user-images.githubusercontent.com/72854140/123825293-15dd0b00-d8ff-11eb-90e2-26b755284e59.PNG">
+   <img width="540" alt="Video_2" src="https://user-images.githubusercontent.com/72854140/123825293-15dd0b00-d8ff-11eb-90e2-26b755284e59.jpg">
 
 7. Datenstrukturen: Binärbaum, Tree, Trie
 
 
-   <img width="539" alt="Video_3" src="https://user-images.githubusercontent.com/72854140/123825327-1b3a5580-d8ff-11eb-933b-c6130afb9a6e.PNG">
+   <img width="539" alt="Video_3" src="https://user-images.githubusercontent.com/72854140/123825327-1b3a5580-d8ff-11eb-933b-c6130afb9a6e.jpg">
 
 
 
