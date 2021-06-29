@@ -40,7 +40,7 @@ Des weiteren brauchten wir noch die Möglichkeit jeden Spielzug nachzuvollziehen
 
 ## Individuelle Leistung - Lehrvideos
 
-Jeder von uns musste ein Video zu einem zugeteilten Inhalt drehen. Der Inhalt war immer Teil des Vorlesungsstoffs, den wir aufgriefen und diesen 
+Jeder von uns musste insgesammt vier Videos zu einem zugeteilten Inhalt drehen. Der Inhalt war immer Teil des Vorlesungsstoffs, den wir aufgriefen und diesen 
 zusätzlich noch mit eigenen Beispielen untermalten. Dabei war es sehr wichtig "nichts nachzuplappern".
 Somit musste man in Eigenleistung beweisen, den Vorlesungsstoff außerhalb des Semesterspiels zu beherrschen.
 
