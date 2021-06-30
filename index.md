@@ -225,20 +225,20 @@ gemacht werden sollte.
 
 **Samed Mollamehmetoglu**
 
-**1.  (Video Name) **
+**1.  (Video Name)**
 
 
 
 
-**2.  (Video Name) **
+**2.  (Video Name)**
 
 
 
 
-**3.  (Video Name) **
+**3.  (Video Name)**
 
 
 
 
-**4.  (Video Name) **
+**4.  (Video Name)**
 
