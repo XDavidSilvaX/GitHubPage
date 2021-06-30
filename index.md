@@ -66,12 +66,14 @@ Jeder von uns musste insgesammt vier Videos zu einem zugeteilten Inhalt drehen. 
 zusätzlich noch mit eigenen Beispielen untermalten. Dabei war es sehr wichtig "nichts nachzuplappern".
 Somit musste man in Eigenleistung beweisen, den Vorlesungsstoff außerhalb des Semesterspiels zu beherrschen.
 
+
+
 **David Silva Goncales**
+
 
 **1.Video Objekt-Eigenschaften-Getter-Setter-Konstruktoren**
 
 ![Screenshot Video 1](https://user-images.githubusercontent.com/74213338/123827645-170f3780-d901-11eb-9c52-e472ee2a8ab7.JPG)
-
 
 Diese Video hat sich stark um die Grundlagen der Objektorientierte Programmierung gedreht. Zuerst wird generell gezeigt wie Objekte angelegt werden und deren Eigenschaften/Attribute, sowie welche Rolle die Konstruktor dabei spielen. 
 Des Weitern werden die Getter und Setter Hilfsmethoden anhand des codes erklärt.
@@ -101,6 +103,7 @@ Mein Beispiel in diesem Video war eine abstrakte dargestellte einer Pizza Bestel
 In Video 4 habe ich anhand einer TreeMap die Funktionen des Compareable interface gezeigt sowie die Funktionen eines Iterators.
 Dies habe ich anhand eines Beispiels der EuropaMeisterschaft realsiert. Abgesondert davon bin ich nach auf die Wildcars und Properties
 eingegangen und welche Funktion diese 2 Konzepte bieten. 
+
 
 
 **Tristan Gräble**
@@ -134,7 +137,9 @@ In Video drei bin ich auf Interfaces in Java eingegangen. Dazu habe ich anhand e
 In meinem letzten Video habe ich Programmier Paradigmen erklärt und bin vor allem auf die Funktionale Programmierung eingegangen. Im zweiten Teil des Videos zeige ich Schlüsselwörter der Funktionalen Programmierung, wie Function, UnaryOperator, Consumer und Supplier. Daraufhin stellte ich ein Beispiel von Lambda vor und dessen Code-Reduzierung, sowie ein Beispiel zu Closure.
 
 
+
 **Johannes Kramberg**
+
 
 **1: Wiederholung: Objekt, Eigenschaften, Getter, Setter, Konstruktoren in Java**
 
@@ -171,64 +176,50 @@ In diesem letzten Video habe ich die Theorie hinter Graphen angesprochen und ans
 Zum Abschluss bin ich dann noch auf die Theorie der Graphenfärbung eingegangen und diese anhand eines praktischen Beispiels abgebildet.
 
 
+
 **Katharina Korst**
 
-1. Video Schleifen-for-each-do-while-Arrays sowie Funktion-Methode-Rekursion-fehlerhafte-Daten
+**1. Video Schleifen-for-each-do-while-Arrays sowie Funktion-Methode-Rekursion-fehlerhafte-Daten**
 
-   ![Video_1](https://user-images.githubusercontent.com/72854140/123826884-7587e600-d900-11eb-857b-9d767160caf8.jpg)
-
+![Video_1](https://user-images.githubusercontent.com/72854140/123826884-7587e600-d900-11eb-857b-9d767160caf8.jpg)
    
-   
-   
+In diesem Video bin ich zunächst auf die Funktionsweise der zwei Sortieralgorithmen Bubblesort und Quicksort 
+anhand einer bildlichen Darstellung eingegangen. Im weiteren Verlauf habe ich beide in Eclipse programmiert 
+und nebenbei die Funktionsweise erklärt.
+Um das ganze besser nachvollziebar zu machen verwendete ich unsortierte Listen und wendete beide
+Algorithmen darauf an.
 
-3. Video Bubblesort und Quicksort sind dabei jeweils ausgehend von einem leeren Eclipse-Projekt live im Video zu entwickeln
+ 
+**2. Video Bubblesort und Quicksort sind dabei jeweils ausgehend von einem leeren Eclipse-Projekt live im Video zu entwickeln**
 
-   ![Video_1b](https://user-images.githubusercontent.com/72854140/123826921-7caef400-d900-11eb-8d44-f2b8069afef8.jpg)
+![Video_1b](https://user-images.githubusercontent.com/72854140/123826921-7caef400-d900-11eb-8d44-f2b8069afef8.jpg)
+
+In diesem Video bin ich zunächst auf die Funktionsweise der zwei Sortieralgorithmen Bubblesort und Quicksort 
+anhand einer bildlichen Darstellung eingegangen. Im weiteren Verlauf habe ich beide in Eclipse programmiert 
+und nebenbei die Funktionsweise erklärt.
+Um das ganze besser nachvollziebar zu machen verwendete ich unsortierte Listen und wendete beide
+Algorithmen darauf an.
 
 
+3. Eingabe, Ausgabe, Ströme und Dateien
 
-5. Eingabe, Ausgabe, Ströme und Dateien
+![Video_2](https://user-images.githubusercontent.com/72854140/123826947-820c3e80-d900-11eb-980c-039b292cbc04.jpg)
 
-
-   ![Video_2](https://user-images.githubusercontent.com/72854140/123826947-820c3e80-d900-11eb-980c-039b292cbc04.jpg)
+Im dritten Video lag mein Schwerpunkt auf der Speicherung im CSV und Serialisierten Format. Dabei bin
+ich zunächst auf die Grobe Funktionsweise der Input und Output Streams eingegangen.
+Im zweiten Schritt habe ich dann jeweils eine Klasse zur Speicherung und Ladung für Dateien
+im CSV- und Serialisiertem-Format implementiert. Über dies konnte man den gesammten Stand
+eines Projektes Speichern und später wieder im gleichen Zustand laden.
 
 
 7. Datenstrukturen: Binärbaum, Tree, Trie
 
+![Video_3](https://user-images.githubusercontent.com/72854140/123826976-88021f80-d900-11eb-8da6-5ca5b25bf6c5.jpg)
 
-   ![Video_3](https://user-images.githubusercontent.com/72854140/123826976-88021f80-d900-11eb-8da6-5ca5b25bf6c5.jpg)
+Im letzen Video Block bekam ich das Thema der Trees und Tries. 
+Auch hier bin ich zunächst auf die Funktionsweise und Datenstruktur beider eingegangen, um dann
+im Nachgang einen Trie zu programmieren.
+Auch habe ich diesen anhand eines groben Beispiels angewendet, wodurch das ganze besser verständlich
+gemacht werden sollte.
 
 
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XDavidSilvaX/GitHubPage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
