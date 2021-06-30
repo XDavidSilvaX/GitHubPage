@@ -136,6 +136,41 @@ In meinem letzten Video habe ich Programmier Paradigmen erklärt und bin vor all
 
 **Johannes Kramberg**
 
+**1: Wiederholung: Objekt, Eigenschaften, Getter, Setter, Konstruktoren in Java**
+
+![iExpo1](https://user-images.githubusercontent.com/72856593/123963933-38306080-d9b3-11eb-8c63-959f884af12e.png)
+
+In diesem Video habe ich Objekte im Zusammenhang mit deren Eigenschaften gezeigt. Dies habe ich am Beispiel eines Menschen genauer erläutert.
+Da jeder Mensch einen Vor- & Nachnamen besitzt konnte ich diese dem Menschenobjekt zuweisen & diese im Konstruktor, also der Geburt eines Menschen setzen.
+Um das Thema abschließend zu beenden, bin ich noch auf Konstruktor-Vererbungshierarchien eingegangen und habe gezeigt wie man mit Hilfe von Getter()-Methoden auf die Eigenschaften des Objektes von außen zugreift und diesen mit Hilfe von Setter()-Methoden neue Werte zuweisen kann.
+
+
+**2: fortgeschrittene Programmierung: Komplexität, O-Notation, P und NP**
+
+![iExpo2](https://user-images.githubusercontent.com/72856593/123964144-7168d080-d9b3-11eb-8b5c-b24378055c3b.png)
+
+Bei diesem zweiten Video habe ich mich mit dem Thema Komplexität hauptsächlich theoretisch beschäftigt. Dabei bin ich zuerst auf die Komplexitättheorie eingegangen, worum sich diese handelt und wozu man diese benötigt.
+Damit die Komplexität anhand der sogenannten O-Notation vorgestellt. Dafür verwendete ich eine Veranschaulichung mit einem Graphen um den Unterschied zwischen P(in polynomialzeit lösbare Probleme) und NP(nichtdeterministisch in polynomialzeit lösbare Probleme) hervorzubringen. Hierzu habe ich die e-Funktion in Vergleich mit einer quadratischen Funktion gesetzt.
+Desweiteren bin ich noch auf Laufzeitunterschiede eingegangen und habe zum Schluss noch den Dijkstra-Algorithmus(P) und das TravellingSalesmanProblem(NP) verglichen, da diese relativ ähnlich zueinander sind, jedoch verschiedene Komplexitätsklassen annehmen. Hierbei habe ich den Dijkstra-Algorithmus auch ausführlich vorgestellt.
+
+
+**3: fortgeschrittene Programmierung: Innere Klassen**
+
+![iExpo3](https://user-images.githubusercontent.com/72856593/123964301-91988f80-d9b3-11eb-96c0-2ffdf5cb38df.png)
+
+Das 3. Video war im Vergleich zu den vorherigen ein etwas kürzeres Video. Dort habe ich die 4 verschiedenen Typen von inneren Klassen vorgestellt. 
+Ich habe angefangen mit statischen inneren Klassen, bin dann weiter zu Mitglieds-/Elementklassen. Weiter ging es dann mit lokalen inneren Klassen und zum Schluss bin ich noch auf anonyme innere Klassen eingegangen.
+Diese verschiedenen Arten habe ich dann versucht, vereinfacht mit Beispielen darzustellen.
+
+
+**4: Datenstrukturen und Collections: Graphen, Dijkstra, Färbung**
+
+![iExpo4](https://user-images.githubusercontent.com/72856593/123964389-a412c900-d9b3-11eb-993b-2521d3994992.png)
+
+In diesem letzten Video habe ich die Theorie hinter Graphen angesprochen und anschließend gezeigt wie man solche in Quellcode darstellt. Im Anschluss habe ich dann den bereits geschriebenen Code verwendet um davon weitere Klassen abzuleiten und damit den Dijkstra-Algorithmus zu coden. Dessen Funktionsweise habe ich parallel dazu auch noch beschrieben.
+Zum Abschluss bin ich dann noch auf die Theorie der Graphenfärbung eingegangen und diese anhand eines praktischen Beispiels abgebildet.
+
+
 **Katharina Korst**
 
 1. Video Schleifen-for-each-do-while-Arrays sowie Funktion-Methode-Rekursion-fehlerhafte-Daten
