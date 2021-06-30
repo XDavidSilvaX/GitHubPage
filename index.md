@@ -201,7 +201,7 @@ Um das ganze besser nachvollziebar zu machen verwendete ich unsortierte Listen u
 Algorithmen darauf an.
 
 
-3. Eingabe, Ausgabe, Ströme und Dateien
+**3. Eingabe, Ausgabe, Ströme und Dateien**
 
 ![Video_2](https://user-images.githubusercontent.com/72854140/123826947-820c3e80-d900-11eb-980c-039b292cbc04.jpg)
 
@@ -212,7 +212,7 @@ im CSV- und Serialisiertem-Format implementiert. Über dies konnte man den gesam
 eines Projektes Speichern und später wieder im gleichen Zustand laden.
 
 
-7. Datenstrukturen: Binärbaum, Tree, Trie
+**4. Datenstrukturen: Binärbaum, Tree, Trie**
 
 ![Video_3](https://user-images.githubusercontent.com/72854140/123826976-88021f80-d900-11eb-8da6-5ca5b25bf6c5.jpg)
 
