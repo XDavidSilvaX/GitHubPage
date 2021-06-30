@@ -7,7 +7,7 @@ Zusätzlich mussten wir in Eigenleistung Lehrvideos zum gegebenen Vorlesungsthem
 
 **Wer gehörte zu unserem Team?**
 
-Wir waren David Silva Goncalves, Tristan Gräble, Johannes Kramberg und Katharina Korst
+Wir waren David Silva Goncalves, Tristan Gräble, Johannes Kramberg, Katharina Korst und Samed Mollamehmetoglu
 
 
 ## Semesterspiel UNO
@@ -221,4 +221,24 @@ im Nachgang einen Trie zu programmieren.
 Auch habe ich diesen anhand eines groben Beispiels angewendet, wodurch das ganze besser verständlich
 gemacht werden sollte.
 
+
+
+**Samed Mollamehmetoglu**
+
+**1.  (Video Name) **
+
+
+
+
+**2.  (Video Name) **
+
+
+
+
+**3.  (Video Name) **
+
+
+
+
+**4.  (Video Name) **
 
